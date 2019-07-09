@@ -1,0 +1,19 @@
+{
+  "name": "myfirstrepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TmDsrtr92/myFirstRepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TmDsrtr92/myFirstRepo/issues"
+  },
+  "homepage": "https://github.com/TmDsrtr92/myFirstRepo#readme"
+}
